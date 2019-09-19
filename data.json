@@ -1,0 +1,10 @@
+var data = `[ 
+    { "url": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/web/resource-manager/Microsoft.Web/stable/2018-11-01/WebApps.json", "name": "WebApps" }, 
+    { "url": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/botservice/resource-manager/Microsoft.BotService/preview/2018-07-12/botservice.json", "name": "BotService" }, 
+    { "url": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/cognitiveservices/resource-manager/Microsoft.CognitiveServices/stable/2017-04-18/cognitiveservices.json", "name": "Cognitive - Management" }, 
+    { "url": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/cognitiveservices/data-plane/LUIS/Authoring/stable/v2.0/LUIS-Authoring.json", "name": "Cognitive - LUIS (Authoring)" }, 
+    { "url": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/cognitiveservices/data-plane/LUIS/Runtime/stable/v2.0/LUIS-Runtime.json", "name": "Cognitive - LUIS (Runtime)" }, 
+    { "url": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/cognitiveservices/data-plane/QnAMaker/stable/v4.0/QnAMaker.json", "name": "Cognitive - QnA Maker" }, 
+    { "url": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/cognitiveservices/data-plane/QnAMaker/stable/v4.0/QnAMakerRuntime.json", "name": "Cognitive - QnA Maker (Runtime)" },
+    { "url": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/azureactivedirectory/resource-manager/Microsoft.Aadiam/stable/2017-04-01/azureactivedirectory.json", "name": "Active Directory"} 
+]`;
