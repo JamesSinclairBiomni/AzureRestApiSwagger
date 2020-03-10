@@ -6,5 +6,10 @@ var data = `[
     { "url": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/cognitiveservices/data-plane/LUIS/Runtime/stable/v2.0/LUIS-Runtime.json", "name": "Cognitive - LUIS (Runtime)" }, 
     { "url": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/cognitiveservices/data-plane/QnAMaker/stable/v4.0/QnAMaker.json", "name": "Cognitive - QnA Maker" }, 
     { "url": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/cognitiveservices/data-plane/QnAMaker/stable/v4.0/QnAMakerRuntime.json", "name": "Cognitive - QnA Maker (Runtime)" },
-    { "url": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/azureactivedirectory/resource-manager/Microsoft.Aadiam/stable/2017-04-01/azureactivedirectory.json", "name": "Active Directory"} 
+    { "url": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/azureactivedirectory/resource-manager/Microsoft.Aadiam/stable/2017-04-01/azureactivedirectory.json", "name": "Active Directory"},
+    { "url": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/storage/resource-manager/Microsoft.Storage/stable/2019-04-01/storage.json", "name": "Storage"},
+    { "url": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/storage/resource-manager/Microsoft.Storage/stable/2019-04-01/blob.json", "name": "Storage - Blob"},
+    { "url": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/storage/resource-manager/Microsoft.Storage/stable/2019-04-01/file.json", "name": "Storage - File"},
+	{ "url": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/search/data-plane/Microsoft.Azure.Search.Service/stable/2019-05-06/searchservice.json", "name": "Microsoft Azure Search Service"},
+	{ "url": "https://raw.githubusercontent.com/Azure/azure-rest-api-specs/master/specification/search/resource-manager/Microsoft.Search/stable/2020-03-13/search.json", "name": "Microsoft Search Resource Manager"}
 ]`;
